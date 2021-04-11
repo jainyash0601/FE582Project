@@ -1,1 +1,1 @@
-# FE582Project
+# FE 582 Project
